@@ -1,4 +1,5 @@
 # Movies - Fachri
+Simple React app for movies that consume data from http://www.omdbapi.com
 
 Installation :
 =================================
