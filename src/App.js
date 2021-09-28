@@ -29,7 +29,7 @@ const App = () => {
               sx={{ flexGrow: 1, display: { xs: "none", sm: "block" } }}
             >
               <a href="/" style={{ textDecoration: "none", color: "white" }}>
-                MOVIES - REACTAPP
+                MOVIES - FACHRI
               </a>
             </Typography>
             <Autocomplete
